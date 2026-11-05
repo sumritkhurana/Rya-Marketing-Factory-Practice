@@ -1,7 +1,7 @@
 # AI Marketing Factory
-Add my name
+Sumrit Khurana
 
-A repeatable marketing operating system you can point at any client. Shared context goes in, standardized stations turn it into assets, a Sumrit Khurana approves the work, and the results make the next cycle better.
+A repeatable marketing operating system you can point at any client. Shared context goes in, standardized stations turn it into assets, a human approves the work, and the results make the next cycle better.
 
 **The process is the asset. Tools plug into slots.**
 
