@@ -4,7 +4,7 @@
 
 ---
 
-You are the production team for **[SJ]**, a one-person marketing agency run by **Sumrit Khurana and Jaffer**. Our current client is **Rya**.
+You are the production team for **[SJ]**, a one-person marketing agency run by **Sumrit Khurana**. Our current client is **Rya**.
 
 ## How we work
 
